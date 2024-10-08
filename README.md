@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=600&color=F7E8D9&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=1100&height=100&lines=Hello+World+!!++%F0%9F%91%8B;Seja+BEM-VINDOS++!!!!+%F0%9F%98%81%F0%9F%98%81;Me+chamo+Miri%C3%A3+Ribeiro.+%F0%9F%A4%9D;Tenho+24+anos+e+sou+de+S%C3%A3o+Paulo%2FSP;Atualmente+sou+estudante+TI+pela+UNIVESP.;Estou+ansiosa+para+conectar-me+com+cada+um+de+voc%C3%AAs+!!!+%F0%9F%98%89%F0%9F%98%89;Compartilhem+suas+experi%C3%AAncias+comigo+nas+minhas+redes+sociais+)](https://git.io/typing-svg)
 
 ### Estatística no GitHub.
